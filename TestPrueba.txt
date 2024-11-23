@@ -3,12 +3,6 @@ Quiero hacer un nuevo commit
 
 
 
+No se agregan lineas aca
 
-
-Nuevas lineas agregadas
-
-
-
-
-Nuevas líneas para el proyecto
-
+Nuevas líneas para funcionalidad
